@@ -1,4 +1,4 @@
-# Self-adjusting roadmaps for unknown environments
+# Path planning using self-adjusting roadmaps for unknown environments
 
 ##### Following are the instructions to run the code:
 - In the terminal where you can run python scripts go to the directory where the above files are located
