@@ -18,5 +18,5 @@ Initial Orientation (in degrees): 20
 Target position (x y):  4 4
 Clearance required (in meters, recommended: 0 to 0.35m): 0
 
-![alt text](./video/self-adjusting-roadmaps-video.gif?raw=true "Algorithm in working.")
+![alt text](./output/self-adjusting-roadmaps-video.gif?raw=true "Algorithm in working.")
 
